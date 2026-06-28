@@ -1,24 +1,24 @@
 ## Hi there 👋
 
-- 💻 My website's [link](https://spider-man-tm.github.io/).
+- 💻 My website's [link](https://takayoshi-makabe.github.io/).
 - 🔭 I’m currently working as a Data Engineer.
 
-<!-- <strong>Profile views counter：</strong>&emsp;![Visitor Count](https://profile-counter.glitch.me/spider-man-tm/count.svg) -->
+<!-- <strong>Profile views counter：</strong>&emsp;![Visitor Count](https://profile-counter.glitch.me/takayoshi-makabe/count.svg) -->
 <!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=spider-man-tm)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=takayoshi-makabe)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=spider-man-tm&theme=buefy&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takayoshi-makabe&theme=buefy&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spider-man-tm&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takayoshi-makabe&theme=buefy" />
 </a> -->
 
 <br />
@@ -57,10 +57,10 @@
   <a href="https://atcoder.jp/users/Spiderman_?contestType=algo">
     <img src="https://badgen.org/img/atcoder/Spiderman_/rating/algorithm?style=plastic" alt="Rating" />
   </a>
-  <a href="https://github.com/spider-man-tm/blog-zenn">
+  <a href="https://github.com/takayoshi-makabe/blog-zenn">
     <img src="https://badgen.org/img/zenn/takayoshi/articles?style=plastic" alt="Articles" />
   </a>
-  <a href="https://github.com/spider-man-tm/blog-qiita">
+  <a href="https://github.com/takayoshi-makabe/blog-qiita">
     <img src="https://badgen.org/img/qiita/Takayoshi_Makabe/articles?style=plastic" alt="Articles" />
   </a>
 </div>
