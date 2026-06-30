@@ -36,7 +36,7 @@
 
 - [https://github.com/marketplace/actions/kaggle-badges](https://github.com/marketplace/actions/kaggle-badges)
 - [https://okane-no-keisan.com/](https://okane-no-keisan.com/)
-- [https://apps.apple.com/jp/app/ai-23 区/id1630656604](https://apps.apple.com/jp/app/ai-23区/id1630656604)
+- [https://apps.apple.com/us/app/まちログ/id6752947243](https://apps.apple.com/us/app/まちログ/id6752947243)
 - [https://npb-visualization.com/](https://npb-visualization.com/)
 
 ### OSS
