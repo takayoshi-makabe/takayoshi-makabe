@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 💻 My website's [link](https://takayoshi-makabe.github.io/).
 - 🔭 I’m currently working as a Data Engineer.
@@ -26,26 +26,36 @@
 ## My Best Skills
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,elasticsearch,py,pytorch,js,npm,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,githubactions,terraform,docker,py,pytorch,js,npm,vscode&theme=light" />
 
 <br />
 
-## Portfolio
+# Portfolio
 
-### My Projects
+## My Projects
 
 - [https://github.com/marketplace/actions/kaggle-badges](https://github.com/marketplace/actions/kaggle-badges)
 - [https://okane-no-keisan.com/](https://okane-no-keisan.com/)
 - [https://apps.apple.com/us/app/まちログ/id6752947243](https://apps.apple.com/us/app/まちログ/id6752947243)
 - [https://npb-visualization.com/](https://npb-visualization.com/)
 
-### OSS
+## OSS
 
-- [apache/airflow/#69379](https://github.com/apache/airflow/pull/69379)
-- [apache/airflow/#69373](https://github.com/apache/airflow/pull/69373)
-- [dataform-co/dataform#1812](https://github.com/dataform-co/dataform/pull/1812)
-- [pytorch/torchtune#1220](https://github.com/pytorch/torchtune/pull/1220)
-- [hatena/hatenablog-workflows#24](https://github.com/hatena/hatenablog-workflows/pull/24)
+### [apache/airflow](https://github.com/apache/airflow)
+
+[#69379](https://github.com/apache/airflow/pull/69379), [#69373](https://github.com/apache/airflow/pull/69373)
+
+### [dataform-co/dataform](https://github.com/dataform-co/dataform)
+
+[#1812](https://github.com/dataform-co/dataform/pull/1812)
+
+### [pytorch/torchtune](https://github.com/pytorch/torchtune)
+
+[#1220](https://github.com/pytorch/torchtune/pull/1220)
+
+### [hatena/hatenablog-workflows](https://github.com/hatena/hatenablog-workflows)
+
+[#24](https://github.com/hatena/hatenablog-workflows/pull/24)
 
 ### Contest・Blog
 
