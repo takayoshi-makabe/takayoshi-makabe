@@ -41,6 +41,8 @@
 
 ### OSS
 
+- [apache/airflow/#69379](https://github.com/apache/airflow/pull/69379)
+- [apache/airflow/#69373](https://github.com/apache/airflow/pull/69373)
 - [dataform-co/dataform#1812](https://github.com/dataform-co/dataform/pull/1812)
 - [pytorch/torchtune#1220](https://github.com/pytorch/torchtune/pull/1220)
 - [hatena/hatenablog-workflows#24](https://github.com/hatena/hatenablog-workflows/pull/24)
