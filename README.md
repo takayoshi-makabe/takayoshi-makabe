@@ -23,8 +23,6 @@
 
 <br />
 
-## My Best Skills
-
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,githubactions,terraform,docker,py,pytorch,js,npm,vscode&theme=light" />
 
@@ -41,23 +39,14 @@
 
 ## OSS
 
-### [apache/airflow](https://github.com/apache/airflow)
+| repos                       | pr                                                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| apache/airflow              | [#69379](https://github.com/apache/airflow/pull/69379), [#69373](https://github.com/apache/airflow/pull/69373) |
+| dataform-co/dataform        | [#1812](https://github.com/dataform-co/dataform/pull/1812)                                                     |
+| pytorch/torchtune           | [#1220](https://github.com/pytorch/torchtune/pull/1220)                                                        |
+| hatena/hatenablog-workflows | [#24](https://github.com/hatena/hatenablog-workflows/pull/24)                                                  |
 
-[#69379](https://github.com/apache/airflow/pull/69379), [#69373](https://github.com/apache/airflow/pull/69373)
-
-### [dataform-co/dataform](https://github.com/dataform-co/dataform)
-
-[#1812](https://github.com/dataform-co/dataform/pull/1812)
-
-### [pytorch/torchtune](https://github.com/pytorch/torchtune)
-
-[#1220](https://github.com/pytorch/torchtune/pull/1220)
-
-### [hatena/hatenablog-workflows](https://github.com/hatena/hatenablog-workflows)
-
-[#24](https://github.com/hatena/hatenablog-workflows/pull/24)
-
-### Contest・Blog
+## Contest・Blog
 
 <div>
   <a href="https://www.kaggle.com/spidermandance">
