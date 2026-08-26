@@ -1,34 +1,15 @@
-# Hi there 👋
+## About Me
 
 - 💻 My website's [link](https://takayoshi-makabe.github.io/).
 - 🔭 I’m currently working as a Data Engineer.
 
-<!-- <strong>Profile views counter：</strong>&emsp;![Visitor Count](https://profile-counter.glitch.me/takayoshi-makabe/count.svg) -->
-<!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/takayoshi-makabe/takayoshi-makabe/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=takayoshi-makabe)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takayoshi-makabe&theme=buefy&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takayoshi-makabe&theme=buefy" />
-</a> -->
-
-<br />
-
-<!-- https://github.com/tandpfun/skill-icons#readme -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,githubactions,terraform,docker,py,pytorch,js,npm,vscode&theme=light" />
-
-<br />
-
-# Portfolio
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,githubactions,terraform,docker,py,pytorch,js,npm,vscode&theme=light" /> -->
 
 ## My Projects
 
@@ -65,22 +46,3 @@
     <img src="https://badgen.org/img/qiita/Takayoshi_Makabe/articles?style=plastic" alt="Articles" />
   </a>
 </div>
-
-<br />
-
-<!-- <div>
-  <a href="https://www.kaggle.com/spidermandance">
-    <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
-  </a>
-  <a href="https://www.kaggle.com/spidermandance">
-    <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
-  </a>
-  <a href="https://www.kaggle.com/spidermandance">
-    <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
-  </a>
-  <a href="https://www.kaggle.com/spidermandance">
-    <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
-  </a>
-</div>
-
-<br /> -->
