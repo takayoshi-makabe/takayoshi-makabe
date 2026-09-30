@@ -16,7 +16,7 @@
 - [https://github.com/marketplace/actions/kaggle-badges](https://github.com/marketplace/actions/kaggle-badges)
 - [https://apps.apple.com/us/app/まちログ/id6752947243](https://apps.apple.com/us/app/まちログ/id6752947243)
 
-## OSS
+<!-- ## OSS
 
 | repos | pr |
 | --- | --- |
@@ -24,7 +24,7 @@
 | apache/iceberg-python | [#4025](https://github.com/apache/iceberg-python/pull/4025) |
 | dataform-co/dataform | [#1812](https://github.com/dataform-co/dataform/pull/1812) |
 | pytorch/torchtune | [#1220](https://github.com/pytorch/torchtune/pull/1220) |
-| hatena/hatenablog-workflows | [#24](https://github.com/hatena/hatenablog-workflows/pull/24) |
+| hatena/hatenablog-workflows | [#24](https://github.com/hatena/hatenablog-workflows/pull/24) | -->
 
 ## Contest・Blog
 
