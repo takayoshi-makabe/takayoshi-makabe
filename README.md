@@ -14,18 +14,17 @@
 ## My Projects
 
 - [https://github.com/marketplace/actions/kaggle-badges](https://github.com/marketplace/actions/kaggle-badges)
-- [https://okane-no-keisan.com/](https://okane-no-keisan.com/)
 - [https://apps.apple.com/us/app/まちログ/id6752947243](https://apps.apple.com/us/app/まちログ/id6752947243)
-- [https://npb-visualization.com/](https://npb-visualization.com/)
 
 ## OSS
 
-| repos                       | pr                                                                                                                                                                                                                                                                                     |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| apache/airflow              | [#69506](https://github.com/apache/airflow/pull/69506), [#69379](https://github.com/apache/airflow/pull/69379), [#69373](https://github.com/apache/airflow/pull/69373), [#69178](https://github.com/apache/airflow/pull/69178), [#68791](https://github.com/apache/airflow/pull/68791) |
-| dataform-co/dataform        | [#1812](https://github.com/dataform-co/dataform/pull/1812)                                                                                                                                                                                                                             |
-| pytorch/torchtune           | [#1220](https://github.com/pytorch/torchtune/pull/1220)                                                                                                                                                                                                                                |
-| hatena/hatenablog-workflows | [#24](https://github.com/hatena/hatenablog-workflows/pull/24)                                                                                                                                                                                                                          |
+| repos | pr |
+| --- | --- |
+| apache/airflow | [#71047](https://github.com/apache/airflow/pull/71047), [#69739](https://github.com/apache/airflow/pull/69739), [#69506](https://github.com/apache/airflow/pull/69506), [#69379](https://github.com/apache/airflow/pull/69379), [#69373](https://github.com/apache/airflow/pull/69373), [#69178](https://github.com/apache/airflow/pull/69178), [#68791](https://github.com/apache/airflow/pull/68791) |
+| apache/iceberg-python | [#4025](https://github.com/apache/iceberg-python/pull/4025) |
+| dataform-co/dataform | [#1812](https://github.com/dataform-co/dataform/pull/1812) |
+| pytorch/torchtune | [#1220](https://github.com/pytorch/torchtune/pull/1220) |
+| hatena/hatenablog-workflows | [#24](https://github.com/hatena/hatenablog-workflows/pull/24) |
 
 ## Contest・Blog
 
